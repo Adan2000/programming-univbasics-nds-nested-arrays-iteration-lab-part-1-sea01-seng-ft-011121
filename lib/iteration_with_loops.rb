@@ -1,9 +1,9 @@
 require 'pry'
 def find_even_values(src)
+  binding.pry
 row_index = 0
 while row_index < src.count do 
-  binding.pry
-puts "hi"
+
 
 end
 
